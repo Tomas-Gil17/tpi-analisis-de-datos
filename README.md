@@ -26,7 +26,7 @@ Docente: Enzo Martín Zotti - División: 343
 - Python: Lenguaje principal
 - Pandas: Carga, limpieza, manipulación y agregación de datos
 - NumPy: Operaciones numéricas y columnas calculadas
-- Matplotlib** y **Seaborn: Visualización de datos
+- Matplotlib y Seaborn: Visualización de datos
 - Scikit-Learn: Preprocesamiento (One-Hot Encoding, StandardScaler), partición train/test y regresión lineal
 - Google Colab: Entorno de ejecución reproducible
 - Git / GitHub: Control de versiones y publicación
