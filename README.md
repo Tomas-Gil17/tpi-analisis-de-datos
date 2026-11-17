@@ -1,6 +1,6 @@
 # Análisis de cancelación de clientes — Telco Customer Churn
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomas-Gil17/tpi-analisis-de-datos/blob/main/notebooks/TPI_Analisis_de_Datos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tomas-Gil17/pruebas_tpi/blob/main/notebooks/TPI_Analisis_de_Datos.ipynb)
 
 Trabajo Práctico Integrador de Introducción al Análisis de Datos — División 343.
 
